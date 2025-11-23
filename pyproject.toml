@@ -1,0 +1,11 @@
+[project]
+name = "anki-gpt"
+version = "0.1.0"
+description = "Personal anki card generator using OpenAI API"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.8.1",
+    "pydantic>=2.12.4",
+    "python-dotenv>=1.2.1",
+]
