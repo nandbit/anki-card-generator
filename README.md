@@ -12,14 +12,15 @@ A txt file the name/directory of which is specified in `src/config.py`.
 Input file: `words.txt`
 ```
 Apple
-Computer
-Machine
 ```
 
 Output file: `output/cards.txt`
 ```
 Apple;蘋果;píng guǒ;Common fruit;我喜歡吃蘋果。<br>wǒ xǐhuān chī píngguǒ<br>I like eating apples.
 ```
+
+## API Key
+place the OpenAI API key in a `.env` file. You can just raname the `.env.example` file.
 
 ## Card format
 Each card object must have these fields:
