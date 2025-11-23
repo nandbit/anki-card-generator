@@ -28,4 +28,4 @@ Each card object must have these fields:
 2. Mandarin Character(s): Traditional Chinese character(s).
 3. Pinyin: Pinyin with tone marks.
 4. Context: Brief nuance/context.
-5. Example Sentence: Sentence in Traditional Chinese + Pinyin + English translation (separated by <br>).
+5. Example Sentence: Sentence in Traditional Chinese + Pinyin + English translation (separated by `<br>`).
